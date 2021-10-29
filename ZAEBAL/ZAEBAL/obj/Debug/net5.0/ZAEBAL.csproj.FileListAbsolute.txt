@@ -1,0 +1,16 @@
+D:\Programm proects\ZAEBAL\ZAEBAL\bin\Debug\net5.0\ZAEBAL.exe
+D:\Programm proects\ZAEBAL\ZAEBAL\bin\Debug\net5.0\ZAEBAL.deps.json
+D:\Programm proects\ZAEBAL\ZAEBAL\bin\Debug\net5.0\ZAEBAL.runtimeconfig.json
+D:\Programm proects\ZAEBAL\ZAEBAL\bin\Debug\net5.0\ZAEBAL.runtimeconfig.dev.json
+D:\Programm proects\ZAEBAL\ZAEBAL\bin\Debug\net5.0\ZAEBAL.dll
+D:\Programm proects\ZAEBAL\ZAEBAL\bin\Debug\net5.0\ref\ZAEBAL.dll
+D:\Programm proects\ZAEBAL\ZAEBAL\bin\Debug\net5.0\ZAEBAL.pdb
+D:\Programm proects\ZAEBAL\ZAEBAL\obj\Debug\net5.0\ZAEBAL.csprojAssemblyReference.cache
+D:\Programm proects\ZAEBAL\ZAEBAL\obj\Debug\net5.0\ZAEBAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programm proects\ZAEBAL\ZAEBAL\obj\Debug\net5.0\ZAEBAL.AssemblyInfoInputs.cache
+D:\Programm proects\ZAEBAL\ZAEBAL\obj\Debug\net5.0\ZAEBAL.AssemblyInfo.cs
+D:\Programm proects\ZAEBAL\ZAEBAL\obj\Debug\net5.0\ZAEBAL.csproj.CoreCompileInputs.cache
+D:\Programm proects\ZAEBAL\ZAEBAL\obj\Debug\net5.0\ZAEBAL.dll
+D:\Programm proects\ZAEBAL\ZAEBAL\obj\Debug\net5.0\ref\ZAEBAL.dll
+D:\Programm proects\ZAEBAL\ZAEBAL\obj\Debug\net5.0\ZAEBAL.pdb
+D:\Programm proects\ZAEBAL\ZAEBAL\obj\Debug\net5.0\ZAEBAL.genruntimeconfig.cache
