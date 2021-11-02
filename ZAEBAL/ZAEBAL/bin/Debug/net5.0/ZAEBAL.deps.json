@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ZAEBAL/1.0.0": {
+        "runtime": {
+          "ZAEBAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZAEBAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
